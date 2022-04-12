@@ -34,6 +34,11 @@ header{
     padding: 10px 10px;
     width: 90%;
     height: 500px;
+
+
+
+
+
 }
 
 header div{
@@ -222,6 +227,11 @@ main{
     padding: 10px 10px;
     width: auto;
     height: auto;
+    background-image: url('Sofa-main.jpg');
+    background-position: center;
+        background-repeat: repeat-y;
+        background-size: cover;
+        background-attachment: fixed;
 }
 
 
@@ -249,7 +259,7 @@ main h2.basico {
 main p.basico {
     text-align: center;
     color: rgb(0, 0, 0);
-    font-size: 1.2em;
+    font-size: 1.5em;
     line-height: 1.0em;
     font-weight: bold;
     padding: 15px 15px;
